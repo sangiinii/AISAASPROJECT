@@ -1,0 +1,19 @@
+# Dependencies and build output
+node_modules/
+dist/
+dist-ssr/
+
+# Environment variables and secrets
+.env
+.env.*
+!.env.example
+
+# Logs and OS/editor files
+*.log
+.DS_Store
+.vscode/
+.idea/
+
+# User-uploaded files (keep empty folder structure if needed)
+backend/uploads/*
+!backend/uploads/.gitkeep

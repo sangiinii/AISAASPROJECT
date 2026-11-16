@@ -1,4 +1,4 @@
-export const BASE_URL = "export const BASE_URL = "https://aisaas-backend.onrender.com";
+export const BASE_URL = "https://aisaas-backend.onrender.com";
 
 export const API_PATHS = {
   AUTH: {
